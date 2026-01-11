@@ -1,9 +1,7 @@
 # 💫 Hi 👋, My name is Rehan Ahmed
 **A passionate Java Full Stack Developer from India**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 🔭 **I’m currently looking for a tech job:** Enter your project info here
+- 🔭 **I’m currently looking for a tech job:** 
 - 🌱 **I’m currently learning:** Microservices
 - 📫 **How to reach me:** reh45905@gmail.com
 - 😄 **Pronouns:** Rehan Ahmed
