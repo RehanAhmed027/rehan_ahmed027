@@ -1,4 +1,14 @@
-# Hey there ,I'm Rehan Ahmed 
+# 💫 Hi 👋, My name is Rehan Ahmed
+**A passionate Java Full Stack Developer from India**
+
+Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently looking for a tech job:** Enter your project info here
+- 🌱 **I’m currently learning:** Microservices
+- 📫 **How to reach me:** reh45905@gmail.com
+- 😄 **Pronouns:** Rehan Ahmed
+- ⚡ **Fun fact:** As a Java developer, you can write code once and run it anywhere… except when the JVM, OS, version, or configuration disagrees with you.
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Rehan-Ahmed) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rehan_ahmed027) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rehan-ahmed-a619381a4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reh45905@gmail.com) 
